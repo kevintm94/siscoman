@@ -1,0 +1,51 @@
+body{
+    background-color: #585858;
+    color: white;
+}
+.login-form{
+    padding: 20px;
+}
+.login-form form{
+    background-color: rgb(37, 37, 37);
+    max-width: 400px;
+    margin: auto;
+    padding: 40px 60px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 2px 10px rgb(131, 130, 130);
+}
+.login-form .form-name{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(233, 233, 233);
+    height: 100px;
+    margin: auto;
+    margin-bottom: 25px;
+    line-height: 50px;
+}
+.login-form .item{
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding: 10px 20px;
+}
+.login-form .login-account{
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: rgb(248, 195, 115);
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+.btn{
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+.btn:hover{
+    text-decoration: none;
+    opacity: 0.5;
+}

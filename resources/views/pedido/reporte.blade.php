@@ -1,0 +1,6 @@
+@extends('layouts.app')
+@section('content')
+<div>
+    <reporte-ped />
+</div>
+@endsection
